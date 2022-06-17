@@ -1,0 +1,101 @@
+body{margin: 0;
+  background-color:#53BF9D;
+  text-align: center;
+  font-family:Pacifico, monospace;
+}
+
+h1{margin-top: 50px;
+  line-height: 2;
+  margin-bottom: 15px;
+    margin-left: 3px;
+  }
+  h2{font-weight: normal;
+      padding-bottom: 10px;}
+
+  h3{color: #51557E;}
+
+p{font-family: Sacramento;
+  font-weight: normal;
+  font-size: 200%;
+  margin-left: 3px;
+  margin-top: 5px;
+
+}
+
+hr{border:dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 10%;
+  margin: 50px auto;}
+
+a{color:#DF7861;
+    margin: 10px 10px;
+  text-decoration: none;}
+
+a:hover{color: white;}
+
+.copywrite{color:white;
+          font-size: 0.75rem;
+        padding: 60px 0 0 0;}
+
+
+.topContainer{background-color: #53BF9D;
+
+}
+
+.middle-container{margin: 100px 0;
+}
+
+.bottom-container{background-color: #1363DF;
+                  padding: 50px 0 20px;
+}
+
+.profileImg{height: 200px;
+            width: 200px;
+}
+.skillImg{height: 25%;
+          width: 25%;
+          float: left;
+          margin-right: 30px;
+          margin-bottom: 10%;
+          margin-top: 15px;
+        }
+.chilliImg{height: 25%;
+          width: 25%;
+          float: right;
+          margin-left: 30px;
+        }
+
+.beginner{text-decoration: underline;}
+
+.intro{width: 30%;
+        margin: auto;
+        }
+
+.bottomCloud{position: absolute;
+            left: 400px;
+}
+.topCloud{position: relative;
+          left: 200px;
+        top: 20px;
+      }
+
+.skill-row{width: 50%;
+            margin: 60px auto 60px auto;
+          text-align: left;}
+
+.contactMsg{width: 40%;
+            margin: 40px auto 60px;}
+
+.btn2{border-radius: 50px;
+      border: none;
+      height: 30px;
+      background-color: #B25068;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.8s, box-shadow 1.5s}
+
+
+.btn2:hover{box-shadow:2px 10px 10px black;
+            background-color: #774360;}
+
+.Inc{font-family: monospace;}
